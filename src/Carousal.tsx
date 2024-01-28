@@ -1,12 +1,12 @@
 export default function Carousal() {
   return (
-    <section class="articles">
+    <section className="articles">
       <article>
-        <div class="article-wrapper">
+        <div className="article-wrapper">
           <figure>
             <img src="https://picsum.photos/id/1011/800/450" alt="" />
           </figure>
-          <div class="article-body">
+          <div className="article-body">
             <h2>Cloud</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Est
@@ -15,11 +15,12 @@ export default function Carousal() {
               consectetur rem nihil deleniti! Curabitur convallis ac quam vitae
               laoreet.{" "}
             </p>
-            <a href="/cloud" class="read-more">
-              Read more <span class="sr-only">about this is some title</span>
+            <a href="/cloud" className="read-more">
+              Read more{" "}
+              <span className="sr-only">about this is some title</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="icon"
+                className="icon"
                 viewBox="0 0 20 20"
                 fill="currentColor"
               >
@@ -34,11 +35,11 @@ export default function Carousal() {
         </div>
       </article>
       <article>
-        <div class="article-wrapper">
+        <div className="article-wrapper">
           <figure>
             <img src="https://picsum.photos/id/1005/800/450" alt="" />
           </figure>
-          <div class="article-body">
+          <div className="article-body">
             <h2>Analytics</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Est
@@ -47,11 +48,12 @@ export default function Carousal() {
               consectetur rem nihil deleniti! Curabitur convallis ac quam vitae
               laoreet.{" "}
             </p>
-            <a href="/analytics" class="read-more">
-              Read more <span class="sr-only">about this is some title</span>
+            <a href="/analytics" className="read-more">
+              Read more{" "}
+              <span className="sr-only">about this is some title</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="icon"
+                className="icon"
                 viewBox="0 0 20 20"
                 fill="currentColor"
               >
@@ -66,11 +68,11 @@ export default function Carousal() {
         </div>
       </article>
       <article>
-        <div class="article-wrapper">
+        <div className="article-wrapper">
           <figure>
             <img src="https://picsum.photos/id/103/800/450" alt="" />
           </figure>
-          <div class="article-body">
+          <div className="article-body">
             <h2>Consulting</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Est
@@ -79,11 +81,12 @@ export default function Carousal() {
               consectetur rem nihil deleniti! Curabitur convallis ac quam vitae
               laoreet.{" "}
             </p>
-            <a href="/conulting" class="read-more">
-              Read more <span class="sr-only">about this is some title</span>
+            <a href="/conulting" className="read-more">
+              Read more{" "}
+              <span className="sr-only">about this is some title</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="icon"
+                className="icon"
                 viewBox="0 0 20 20"
                 fill="currentColor"
               >
