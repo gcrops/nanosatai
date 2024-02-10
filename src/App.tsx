@@ -1,38 +1,78 @@
-import "./App.css"
-import { Navbar } from "./components/nav-bar";
+import './App.css';
+import { Navbar } from './components/nav-bar';
 
 function App() {
   return (
-      <div>
-        <Navbar></Navbar>
-        <div className="MainHero">Tracking and Reporting</div>
-        Extended teams GBS is committed to building and maintaining exceptional
-        relationships with our clients and candidates. We have successfully
-        helped many companies identify, interview and on-board talented
-        professionals at all levels. We have strategy-insight driven methods to
-        source professionals for the entire gamut of IT including excellently
-        fitting Cloud Engineers, Project Managers, Business Analysts,
-        Infrastructure Engineers and brilliant Techies for all verticals. We
-        have Passionate and genuinely experienced software professionals with
-        very high skill sets and competencies to take up any given tasks. GBS
-        prioritizes on genuineness of our resources and provide them with equal
-        opportunity to learn, grow and succeed For Employers We provide the
-        right skills at the right price, right when you need it. Finding the
-        right staff for your company is an exhaustive process. Once we
-        understand your needs, we will provide you with carefully screened job
-        candidates. Our supreme knowledge of the technology marketplace allows
-        us to access the very best and brightest in the industry. We will
-        provide you with top quality aspirants, tailored for your company needs
-        and environment, allowing you to interview a select candidate and bring
-        them on-board.We are provide resource to work onsite and remotely We
-        recruit for your needs Our recruiting process is designed to find
-        associates who can add business value in your organization from day one.
-        Through our vast network of contacts, we have unmatched access to a pool
-        of skilled individuals. We use proven and reliable job-related
-        assessments to pinpoint candidates’ abilities and fit with your work
-        environment. And, we work to build an in-depth understanding of your
-        objectives to effectively match our associates to your needs.
+    <div>
+      <Navbar></Navbar>
+      <div className="MainHero">
+        <div className="heroText">Global Biomeservices</div>
       </div>
+      <div className="content">
+        <div className="Horizontal">
+          <div className="horiText">
+            <div className="horiTextHeader">
+              <h2>Team at GBS</h2>{' '}
+            </div>
+            Extended teams GBS is committed to building and maintaining
+            exceptional relationships with our clients and candidates. We have
+            successfully helped many companies identify, interview and on-board
+            talented professionals at all levels. We have strategy-insight
+            driven methods to source professionals for the entire gamut of IT
+            including excellently fitting Cloud Engineers, Project Managers,
+            Business Analysts, Infrastructure Engineers and brilliant Techies
+            for all verticals.
+          </div>
+          <img
+            src="https://cropx.com/wp-content/uploads/2022/12/iStock-1372936676.jpg"
+            alt=""
+          />
+        </div>
+        <div className="Horizontal">
+          <img
+            src="https://cropx.com/wp-content/uploads/2022/12/iStock-1387850571.jpg"
+            alt=""
+          />
+          <div className="horiText">
+            <div className="horiTextHeader">
+              <h2>Passion</h2>{' '}
+            </div>
+            We have Passionate and genuinely experienced software professionals
+            with very high skill sets and competencies to take up any given
+            tasks. GBS prioritizes on genuineness of our resources and provide
+            them with equal opportunity to learn, grow and succeed For Employers
+            We provide the right skills at the right price, right when you need
+            it. Finding the right staff for your company is an exhaustive
+            process. Once we understand your needs, we will provide you with
+            carefully screened job candidates. Our supreme knowledge of the
+            technology marketplace allows us to access the very best and
+            brightest in the industry.
+          </div>
+        </div>
+        <div className="Horizontal">
+          <div className="horiText">
+            <div className="horiTextHeader">
+              <h2>Quality</h2>{' '}
+            </div>
+            We will provide you with top quality aspirants, tailored for your
+            company needs and environment, allowing you to interview a select
+            candidate and bring them on-board.We are provide resource to work
+            onsite and remotely We recruit for your needs Our recruiting process
+            is designed to find associates who can add business value in your
+            organization from day one. Through our vast network of contacts, we
+            have unmatched access to a pool of skilled individuals. We use
+            proven and reliable job-related assessments to pinpoint candidates’
+            abilities and fit with your work environment. And, we work to build
+            an in-depth understanding of your objectives to effectively match
+            our associates to your needs.
+          </div>
+          <img
+            src="https://cropx.com/wp-content/uploads/2022/12/iStock-1387850571.jpg"
+            alt=""
+          />
+        </div>
+      </div>
+    </div>
   );
 }
 

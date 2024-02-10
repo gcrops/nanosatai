@@ -1,21 +1,25 @@
-.NavFlex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 10vh;
+.NavFlex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  width: 100vw;
+  position: fixed;
+  background-color: white;
+  margin-bottom: 10vh;
 }
 
-.cropxLogo{
-    padding: 1vh;
+.cropxLogo {
+  padding: 1vh;
 }
 
-.RightFlex{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.RightFlex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.RightFlex div{
-    margin: 2vh;
-    font-size: large;
+.RightFlex div {
+  margin: 2vh;
+  font-size: large;
 }
