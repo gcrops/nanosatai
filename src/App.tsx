@@ -1,25 +1,7 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Cloud from "./Pages/services/Cloud.tsx";
-import Analytics from "./Pages/services/Analytics.tsx";
-import Consulting from "./Pages/services/Consulting.tsx";
-import Home from "./Pages/Home.tsx";
-import "./App.css";
-import Carousel from "./Carousal.tsx";
+import "./App.css"
+
 function App() {
   return (
-    <>
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/cloud" element={<Cloud />} />
-          <Route path="/analytics" element={<Analytics />} />
-          <Route path="/consulting" element={<Consulting />} />
-        </Routes>
-      </BrowserRouter>
-
-      <div className="flex-container">
-        <Carousel />
-      </div>
       <div className="card">
         Extended teams GBS is committed to building and maintaining exceptional
         relationships with our clients and candidates. We have successfully
@@ -48,7 +30,6 @@ function App() {
         environment. And, we work to build an in-depth understanding of your
         objectives to effectively match our associates to your needs.
       </div>
-    </>
   );
 }
 
