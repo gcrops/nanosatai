@@ -1,8 +1,11 @@
 import "./App.css"
+import { Navbar } from "./components/nav-bar";
 
 function App() {
   return (
-      <div className="card">
+      <div>
+        <Navbar></Navbar>
+        <div className="MainHero">Tracking and Reporting</div>
         Extended teams GBS is committed to building and maintaining exceptional
         relationships with our clients and candidates. We have successfully
         helped many companies identify, interview and on-board talented
