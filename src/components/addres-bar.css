@@ -1,0 +1,23 @@
+.address {
+  display: flex;
+  flex-direction: row;
+  font-family: sans-serif;
+  color: white;
+  background-color: black;
+  padding: 2vh;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+}
+.address-left {
+  display: flex;
+  flex-direction: row;
+}
+.address div {
+  font-size: 12px;
+}
+
+.address-icon {
+  margin-left: 1vh;
+  margin-right: 1vh;
+}
