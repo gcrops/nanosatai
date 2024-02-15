@@ -13,9 +13,14 @@ export function Navbar() {
           <i className="fa fa-bars" aria-hidden="true"></i>
         </div>
         <div className="RightFlex">
-          <div>Analytics</div>
-          <div>Consulting</div>
-          <div>Cloud</div>
+          <div>Home</div>
+          <div>About</div>
+          <div>Services</div>
+          <div>Products</div>
+          <div>Carrers</div>
+          <div>Blog</div>
+          <div>Clients</div>
+          <div>Contact</div>
         </div>
       </div>
     </div>

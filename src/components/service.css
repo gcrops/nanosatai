@@ -1,0 +1,45 @@
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 90vw;
+  background-color: white;
+  padding: 2vh;
+  box-shadow:
+    rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px,
+    rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.card {
+  width: 30%;
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2vh;
+}
+
+.cardImage {
+  margin: auto;
+}
+
+.cardHeading {
+  margin: auto;
+  padding: 2vh;
+  font-size: 27px;
+}
+
+@media screen and (max-width: 950px) {
+  .cardContainer {
+    margin-top: 10vh;
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    width: 60%;
+    margin-bottom: 10vh;
+  }
+}

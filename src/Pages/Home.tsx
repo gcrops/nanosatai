@@ -1,19 +1,36 @@
-function Home() {
+import { Services } from '../components/services.tsx';
+import './Home.css';
+export function Home() {
   return (
     <div>
-      Global Biome Services., a Princeton based IT hub that provides IT
-      Services, specialized in helping clients for Cloud migration , Data
-      Transformation and developing products to provide data driven insights
-      using Machine Learning and big data analytics We help increase ROI and
-      business value for our clients through adapting Converged and Hyper
-      Converged platforms and cloud enablement. GBS has a deep understanding of
-      the advanced technologies and our experienced pool of IT resources mean
-      that we have it in us to serve any client, anywhere on the globe. We
-      deliver the value that clients care about; we provide ideas and solutions
-      tailor-made to meet their needs and produce results of the highest
-      quality.Our clients look forward to us for innovative ideas, expertise,
-      and solutions that help them improve the entire gamut of their business.We
-      believe in total commitment and better results for all our associates
+      <div className="MainHero">
+        <div className="heroText">Global Biomeservices</div>
+      </div>
+      <div className="content">
+        <div className="Horizontal">
+          <div className="horiText">
+            <div className="horiTextHeader">
+              <h2>Team at GBS</h2>
+            </div>
+            Extended teams GBS is committed to building and maintaining
+            exceptional relationships with our clients and candidates. We have
+            successfully helped many companies identify, interview and on-board
+            talented professionals at all levels. We have strategy-insight
+            driven methods to source professionals for the entire gamut of IT
+            including excellently fitting Cloud Engineers, Project Managers,
+            Business Analysts, Infrastructure Engineers and brilliant Techies
+            for all verticals. We have Passionate and genuinely experienced
+            software professionals with very high skill sets and competencies to
+            take up any given tasks.
+          </div>
+          <img
+            src="https://cropx.com/wp-content/uploads/2022/12/iStock-1372936676.jpg"
+            alt=""
+          />
+        </div>
+
+        <Services />
+      </div>
     </div>
   );
 }

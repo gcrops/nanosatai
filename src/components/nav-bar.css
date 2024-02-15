@@ -2,11 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 10vh;
   width: 100vw;
-  position: fixed;
   background-color: white;
-  margin-bottom: 10vh;
 }
 
 .ham {
@@ -26,6 +23,10 @@
 .RightFlex div {
   margin: 2vh;
   font-size: large;
+}
+
+.RightFlex div:hover {
+  text-decoration: underline;
 }
 
 @media screen and (max-width: 950px) {

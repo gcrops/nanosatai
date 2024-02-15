@@ -25,7 +25,7 @@ export function AddressBar() {
 
         <div>
           <FontAwesomeIcon icon={faPhone} size="xl" className="address-icon" />
-          (215)-395-6373
+          (111)-111-1111
         </div>
 
         <div>
@@ -34,7 +34,7 @@ export function AddressBar() {
             size="xl"
             className="address-icon"
           />
-          info@dascase.com
+          info@globalbiomeservices.com
         </div>
       </div>
       <div>
