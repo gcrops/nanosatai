@@ -1,6 +1,6 @@
 import './App.css';
 import { Navbar, CopyRight } from './components';
-import { Home, Carrers, ContactUs, Product, About } from './Pages';
+import { Home, Carrers, ContactUs, Product, About, Clients } from './Pages';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
           <Route path="products" element={<Product />} />
           <Route path="carrers" element={<Carrers />} />
           <Route path="blog" element={<Product />} />
-          <Route path="clients" element={<ContactUs />} />
+          <Route path="clients" element={<Clients />} />
           <Route path="contact" element={<ContactUs />} />
           <Route path="*" element={<Home />} />
         </Routes>

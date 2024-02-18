@@ -7,8 +7,8 @@
   height: 60vh;
 }
 
-.productImage{
-  background-image: url("https://www.dascase.com/wp-content/uploads/2023/05/cropped-botz.jpg");
+.productImage {
+  background-image: url('https://www.dascase.com/wp-content/uploads/2023/05/cropped-botz.jpg');
   height: 50vh;
   width: 40vw;
   margin-left: 5vw;
@@ -16,7 +16,6 @@
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   background-position: center center;
   background-size: cover;
-  
 }
 
 .h3text {
@@ -30,7 +29,6 @@
   align-items: baseline;
   margin-top: 10vh;
   text-align: left;
-  
 }
 
 .productcard h5 {
@@ -44,17 +42,16 @@
   margin-bottom: 20px;
 }
 
-
 @media screen and (max-width: 950px) {
   .productcard {
     display: flex;
     flex-direction: column;
   }
-  .productImage{
+  .productImage {
     margin: auto;
     width: 90vw;
   }
-  .product{
+  .product {
     margin: auto;
     width: 90vw;
   }

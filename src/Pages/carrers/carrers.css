@@ -18,3 +18,33 @@
   padding: 1vh;
   margin: 2vh;
 }
+
+.positionMain{
+  font-size: 2.5em;
+  font-weight: 400;
+  text-align: center;
+  padding: 5vh;
+}
+
+.positionRow {
+  display: flex;
+  flex-direction: row; 
+  padding: 2vw;
+}
+
+.open{
+  font-size: 1.em;
+  color: rgb(70, 112, 127);
+  font-weight: 700;
+  padding: 2vh;
+}
+
+.position{
+  width: 25vw;
+}
+
+.details {
+  width: 75vw;
+  text-align: left;
+  color: rgba(70, 112, 127)
+}
