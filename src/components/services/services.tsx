@@ -48,7 +48,7 @@ export function Services() {
           className="cardImage"
           color="#142945"
         />
-        <div className="cardHeading">Quality Assurance</div>
+        <div className="cardHeading">Geo spatial</div>
         <div className="cardText">
           GBS qa engineers are focused with a goal to help companies deliver
           software with quality and confidence. We understand all software has
@@ -90,7 +90,7 @@ export function Services() {
           className="cardImage"
           color="#142945"
         />
-        <div className="cardHeading">Managed Services</div>
+        <div className="cardHeading">Extended Teams</div>
         <div className="cardText">
           Through our vast network of contacts, we have unmatched access to a
           pool of skilled individuals. We use proven and reliable job-related

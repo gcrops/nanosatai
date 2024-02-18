@@ -1,5 +1,5 @@
 .MainHeroCarrers {
-  background-image: url('https://cropx.com/wp-content/uploads/2023/10/Funny-CropX-Recruiting-Video-Updated.png');
+  background-image: url('https://cropx.com/wp-content/uploads/2022/12/ALG-DRUIVEN-LIGGEND-NL-5005-scaled.jpg');
   height: 40vh;
   background-position-x: center;
   background-position-y: center;
@@ -19,7 +19,7 @@
   margin: 2vh;
 }
 
-.positionMain{
+.positionMain {
   font-size: 2.5em;
   font-weight: 400;
   text-align: center;
@@ -28,23 +28,23 @@
 
 .positionRow {
   display: flex;
-  flex-direction: row; 
+  flex-direction: row;
   padding: 2vw;
 }
 
-.open{
-  font-size: 1.em;
+.open {
+  font-size: 1em;
   color: rgb(70, 112, 127);
   font-weight: 700;
   padding: 2vh;
 }
 
-.position{
+.position {
   width: 25vw;
 }
 
 .details {
   width: 75vw;
   text-align: left;
-  color: rgba(70, 112, 127)
+  color: rgba(70, 112, 127);
 }
