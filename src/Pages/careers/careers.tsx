@@ -1,4 +1,4 @@
-import './carrers.css';
+import './careers.css';
 export function Carrers() {
   return (
     <div>

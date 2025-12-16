@@ -40,7 +40,7 @@ export function Navbar() {
             <Link to="/products">Products</Link>
           </div>
           <div>
-            <Link to="/carrers">Carrers</Link>
+            <Link to="/careers">Careers</Link>
           </div>
           <div>
             <Link to="/blog">Blog</Link>
