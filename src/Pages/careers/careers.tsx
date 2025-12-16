@@ -3,7 +3,7 @@ export function Careers() {
   return (
     <div>
       <div className="MainHeroCarrers">
-        <div className="heroTextCarrers">Carrers at GBS</div>
+        <div className="heroTextCarrers">Careers at GBS</div>
       </div>
       <div className="open">OPEN</div>
       <div className="positionMain">Positions</div>
