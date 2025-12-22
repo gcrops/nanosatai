@@ -1,5 +1,5 @@
 import './App.css';
-import { Navbar, CopyRight } from './components';
+import { Navbar, CopyRight }from '@/components'
 import {
   Home,
   Careers, 
@@ -12,7 +12,7 @@ import {
   Geo,
   Managedservices,
   Teams,
-} from './Pages';
+} from '@/Pages';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   return (

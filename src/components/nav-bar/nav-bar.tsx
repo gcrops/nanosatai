@@ -1,7 +1,6 @@
-import cropxLogo from '../../assets/cropxnav.png';
+import {AddressBar} from '@/components/address-bar/address-bar'
 import { Link } from 'react-router-dom';
 import './nav-bar.css';
-import { AddressBar } from '../address-bar/address-bar.tsx';
 export function Navbar() {
   return (
     <div>
@@ -9,7 +8,7 @@ export function Navbar() {
         <AddressBar />
       </div>
       <div className="NavFlex">
-        <img src={cropxLogo} alt="logo" className="cropxLogo" />
+        <img src="/cropxnav.png" alt="logo" className="cropxLogo" />
         <div className="ham">
           <i className="fa fa-bars" aria-hidden="true"></i>
         </div>
