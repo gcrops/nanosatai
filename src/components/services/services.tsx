@@ -1,9 +1,9 @@
 import {
-  faGear,
-  faGears,
-  faCheck,
+  faGlobe,
   faShieldHalved,
   faPeopleGroup,
+  faProjectDiagram,
+  faBrain
 } from '@fortawesome/free-solid-svg-icons';
 import { faCloudflare } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -12,20 +12,6 @@ import './service.css';
 export function Services() {
   return (
     <div className="cardContainer">
-      <div className="card">
-        <FontAwesomeIcon
-          size="2xl"
-          icon={faGear}
-          className="cardImage"
-          color="#142945"
-        />
-        <div className="cardHeading">Devops Consulting</div>
-        <div className="cardText">
-          It is a combination of practices, tools and cultural philosophies that
-          improves the ability of an organisation to deliver releases in a much
-          faster manner compared to other traditional models.{' '}
-        </div>
-      </div>
       <div className="card">
         <FontAwesomeIcon
           size="2xl"
@@ -44,7 +30,7 @@ export function Services() {
       <div className="card">
         <FontAwesomeIcon
           size="2xl"
-          icon={faCheck}
+          icon={faGlobe}
           className="cardImage"
           color="#142945"
         />
@@ -72,20 +58,6 @@ export function Services() {
       <div className="card">
         <FontAwesomeIcon
           size="2xl"
-          icon={faGears}
-          className="cardImage"
-          color="#142945"
-        />
-        <div className="cardHeading">Managed Services</div>
-        <div className="cardText">
-          Our Managed Services help support a more diverse, complex enterprise
-          application and technology portfolio, while balancing competing
-          business priorities of IT operations and innovation.
-        </div>
-      </div>
-      <div className="card">
-        <FontAwesomeIcon
-          size="2xl"
           icon={faPeopleGroup}
           className="cardImage"
           color="#142945"
@@ -97,6 +69,26 @@ export function Services() {
           assessments to pinpoint candidates’ abilities and fit with your work
           environment.{' '}
         </div>
+      </div>
+      <div className='card'>
+        <FontAwesomeIcon
+          size="2xl"
+          icon={faProjectDiagram}
+          className="cardImage"
+          color="#142945"
+        />
+        <div className='cardHeading'>Data Engineering</div>
+        <div className='cardText'>We specialize in Data Engineering and Data Pipeline development, integrating advanced GeoData processing to turn complex spatial information into streamlined, actionable insights</div>
+      </div>
+      <div className='card'>
+        <FontAwesomeIcon
+          size="2xl"
+          icon={faBrain}
+          className="cardImage"
+          color="#142945"
+        />
+        <div className='cardHeading'>AI & Machine Learning</div>
+        <div className='cardText'>We bridge the gap between complex data and actionable intelligence. Our team builds the Data Pipelines and GeoData frameworks necessary to power custom Large Multimodal Models (LMMs).</div>
       </div>
     </div>
   );

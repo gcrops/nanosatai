@@ -12,7 +12,7 @@ import {
   Geo,
   Managedservices,
   Teams,
-} from '@/Pages';
+} from '@/pages';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   return (
