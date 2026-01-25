@@ -35,7 +35,7 @@ export function About() {
             their business.
           </p>
           <p>
-            Dascase specializes in effective outsourcing and technological
+            GBS specializes in effective outsourcing and technological
             applications. It has been over 8 years of high performance. We
             believe in total commitment and better results for all our
             associates.We are committed to building long-term partnerships with
