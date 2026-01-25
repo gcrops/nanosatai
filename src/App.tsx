@@ -6,7 +6,6 @@ import {
   ContactUs,
   Product,
   About,
-  Clients,
   Devops,
   Cloud,
   Geo,
