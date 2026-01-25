@@ -108,7 +108,7 @@ i {
   position: absolute;
   right: 100%;
   top: 0;
-  min-width: 200px;
+  width: 25vw;
   background-color: white;
   z-index: 1;
 }
