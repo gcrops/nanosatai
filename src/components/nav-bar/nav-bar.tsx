@@ -26,12 +26,22 @@ export function Navbar() {
                 <i className="fa fa-caret-down"></i>
               </div>
               <div className="dropdown-content">
-                <a href="/services/devops">Devops</a>
-                <a href="/services/cloud">Cloud Migration</a>
-                <a href="/services/geo">Geo spatial</a>
-                <a href="/services/security">Cloud Security</a>
-                <a href="services/managed-services">Managed Services</a>
-                <a href="services/teams">Extended Teams</a>
+                <Link to="/services/devops">Devops</Link>
+                <Link to="/services/cloud">Cloud Migration</Link>
+                <div className="dropdown">
+                  <div className="dropbtn sub">
+                    Geo Spatial Analytics & Consulting
+                    <i className="fa fa-caret-right"></i>
+                  </div>
+                  <div className="dropdown-content sub">
+                    <Link to="/services/geo/data-processing">Geospatial Data Processing</Link>
+                    <Link to="/services/geo/remote-sensing">Remote Sensing</Link>
+                    <Link to="/services/geo/gis">GIS Consulting</Link>
+                  </div>
+                </div>
+                <Link to="/services/security">Cloud Security</Link>
+                <Link to="/services/managed-services">Managed Services</Link>
+                <Link to="/services/teams">Extended Teams</Link>
               </div>
             </div>
           </div>

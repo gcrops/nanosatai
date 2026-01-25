@@ -26,6 +26,9 @@ function App() {
           <Route path="services/devops" element={<Devops />}></Route>
           <Route path="services/cloud" element={<Cloud />}></Route>
           <Route path="services/geo" element={<Geo />}></Route>
+          <Route path="services/geo/data-processing" element={<Geo />}></Route>
+          <Route path="services/geo/remote-sensing" element={<Geo />}></Route>
+          <Route path="services/geo/gis" element={<Geo />}></Route>
           <Route path="services/managed" element={<Managedservices />}></Route>
           <Route path="services/teams" element={<Teams />}></Route>
           <Route path="services/*" element={<Devops />}></Route>
