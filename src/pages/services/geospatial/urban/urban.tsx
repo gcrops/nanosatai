@@ -1,6 +1,7 @@
+import './urban.css';
 export function Urban() {
   return (
-    <div>
+    <div className="UrbanHero">
       <div>URBAN PLANNING AND 3D SPATIAL DATA</div>
       <div>
         Grace Detailed GIS Services provides advanced geospatial solutions that

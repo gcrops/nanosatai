@@ -6,8 +6,7 @@ export function Home() {
       <div className="MainHero">
         <div className="heroText">Global Biomeservices</div>
         <div className="heroSubText">
-          Bespoke Agentic AI and Multimodal Models<br></br>built on a foundation
-          of world-class Data & Geo Engineering.
+          Bring Data to Life
         </div>
       </div>
       <div className="content">
