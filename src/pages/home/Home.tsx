@@ -53,14 +53,14 @@ export function Home() {
             <div className="horiTextHeader">
               <h2>Data Engineering</h2>
             </div>
-            <strong>At Global Biomeservices</strong>, we specialize in data engineering solutions
-            tailored for geospatial applications, ensuring the seamless
-            collection, processing, and integration of vast spatial datasets
-            from diverse sources like satellites, drones, and IoT sensors. Our
-            expertise encompasses building scalable data pipelines, implementing
-            ETL processes for transforming raw geospatial data into structured
-            formats, and leveraging cloud-native architectures to handle big
-            data volumes efficiently.
+            <strong>At Global Biomeservices</strong>, we specialize in data
+            engineering solutions tailored for geospatial applications, ensuring
+            the seamless collection, processing, and integration of vast spatial
+            datasets from diverse sources like satellites, drones, and IoT
+            sensors. Our expertise encompasses building scalable data pipelines,
+            implementing ETL processes for transforming raw geospatial data into
+            structured formats, and leveraging cloud-native architectures to
+            handle big data volumes efficiently.
           </div>
         </div>
 

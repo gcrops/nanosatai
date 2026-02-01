@@ -1,17 +1,32 @@
+import '../geo.css';
 export function Gis() {
   return (
-    <div>
-      <div>GIS DATA COMPILATION AND STANDARDISATION</div>
+    <div className="ServicePage">
+      <div className="ServiceHero">GIS DATA COMPILATION & STANDARDISATION</div>
       <div>
-        ​Grace GIS specialises in compiling, cleaning, and standardising complex
-        spatial datasets through robust ETL (Extract, Transform, Load)
-        workflows. We integrate data from diverse sources—such as LiDAR, aerial
-        imagery, and field surveys—into structured, analysis-ready formats that
-        align with government and industry standards. Our ETL processes ensure
-        data accuracy, consistency, and seamless integration across GIS
-        platforms, supporting better decision-making, efficient asset
-        management, and reliable modelling outcomes for planning and
-        environmental projects.
+        GBS helps organisations transform fragmented, inconsistent spatial data
+        into reliable, structured GIS datasets. Through careful compilation,
+        validation, and standardisation, we create trusted data foundations that
+        support analysis, asset management, and long-term decision-making.
+        <img src="/gisdata.avif" alt="urban" />
+        What We Do
+        <ul>
+          <li>GIS data compilation and consolidation</li>
+          <li>Spatial data standardisation and schema design</li>
+          <li>Attribute validation and quality assurance</li>
+          <li>Data conversion and migration</li>
+          <li>Integration of legacy and contemporary datasets</li>
+          <li>Metadata creation and documentation</li>
+          <li>Data governance support</li>
+        </ul>
+        Deliverables Clients receive:
+        <ul>
+          <li>Standardised GIS datasets</li>
+          <li>Data schemas and attribute definitions</li>
+          <li>QA rules and validation results</li>
+          <li>Metadata and documentation</li>
+          <li>GIS-ready outputs for analysis or publishing</li>
+        </ul>
       </div>
     </div>
   );

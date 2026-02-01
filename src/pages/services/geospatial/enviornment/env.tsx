@@ -1,15 +1,39 @@
+import '../geo.css';
 export function Enviornment() {
   return (
-    <div>
-      <div>ENVIRONMENT AND GREEN INFRASTRUCTURE ANALYSIS</div>
+    <div className="ServicePage">
+      <div className="ServiceHero">
+        ENVIRONMENT & GREEN
+        <br />
+        INFRASTRUCTURE ANALYSIS
+      </div>
       <div>
-        Grace GIS offers detailed analysis and mapping of environmental assets
-        and green infrastructure to support sustainable urban planning and
-        climate resilience. Our services include tree canopy mapping, land
-        use/land cover classification, change detection, and green space
-        benchmarking. By using high-resolution spatial data and remote sensing,
-        we help councils and organisations evaluate ecological health, track
-        vegetation trends, and plan for greener, more livable communities.
+        GBS provides detailed environmental and green infrastructure analysis to
+        support sustainable land management, urban resilience, and
+        climate-responsive planning. Using advanced GIS methods and high-quality
+        spatial data, we help organisations understand, protect, and enhance
+        natural and green assets.
+        <img src="/enviornment.avif" alt="environment" />
+        What We Do
+        <ul>
+          <li>Tree canopy and vegetation mapping</li>
+          <li>Green infrastructure benchmarking</li>
+          <li>Land use and land cover analysis</li>
+          <li>Wetland and waterbody mapping</li>
+          <li>Riparian and stream network analysis</li>
+          <li>Environmental change detection</li>
+          <li>Spatial statistics and reporting</li>
+          <li>Data QA and documentation</li>
+        </ul>
+        Deliverables Clients receive:
+        <ul>
+          <li> Vegetation and canopy GIS layers</li>
+          <li>Green infrastructure benchmark datasets</li>
+          <li>Thematic environmental maps</li>
+          <li>Spatial statistics and analytical summaries</li>
+          <li>Change detection and trend analysis</li>
+          <li>Metadata and technical documentation</li>
+        </ul>
       </div>
     </div>
   );
