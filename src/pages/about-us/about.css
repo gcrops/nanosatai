@@ -1,31 +1,33 @@
-.enjoy {
-  font-size: 40px;
-  width: 45vw;
-  margin: auto;
-  padding-left: 3vw;
-  padding-right: 3vw;
-  padding-bottom: 12vh;
+.AboutHero {
+  background-image: url('/hori-satellite.jpg');
+  height: 40vh;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: left;
+  padding-top: 10vh;
 }
-.aboutus {
-  font-weight: 800;
-  font-size: 4.5rem;
-}
-em {
-  font-style: italic;
-  color: #01a9f4;
-}
+
 
 .aboutcontent {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
+  width: 80vw;
+  margin: auto;
+  padding-top: 10vh;
 }
 
 .content45 {
-  width: 40vw;
+  width: 50vw;
+  margin: auto;
+  font-weight: 300;
+  letter-spacing: normal;
+  line-height: 1.6;
   text-align: left;
-  font-size: 1.5rem;
-  font-weight: 400;
 }
 
 @media screen and (max-width: 950px) {

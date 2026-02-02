@@ -14,18 +14,7 @@ export function Home() {
             <div className="horiTextHeader">
               <h2>Geospatial at GBS</h2>
             </div>
-            <strong>At Extended Teams GBS</strong>, our mission is to drive
-            global innovation by bridging the gap between visionary
-            organizations and world-class talent. We are dedicated to promoting
-            research and development in frontier technologies, including{' '}
-            <strong>
-              Space-Tech, Quantum Computing, Big Data Technologies, AI, IoT, and
-              Digital Twin solutions
-            </strong>
-            . Through strategy-led sourcing and deep industry insight, we
-            empower our clients to build the future by connecting them with the
-            specialized expertise needed to excel in a rapidly evolving digital
-            landscape.
+            <strong>At Global Biomeservices</strong>,Our geospatial capabilities focus on transforming location intelligence into real-world impact. We enable advanced solutions across satellite imagery, remote sensing, GIS, and spatial analytics to support applications in smart cities, climate monitoring, infrastructure planning, mobility, and national security. By combining deep domain expertise with cutting-edge technologies such as GeoAI, Digital Twins, and big data platforms, we empower organizations to model the physical world, uncover hidden patterns, and make faster, more informed decisions in an increasingly connected and data-driven environment.
           </div>
         </div>
 
@@ -82,7 +71,7 @@ export function Home() {
             specialized expertise needed to excel in a rapidly evolving digital
             landscape.
           </div>
-          <img src="/second.jpg" />
+          <img src="/spacex.jpg" />
         </div>
         <Services />
       </div>

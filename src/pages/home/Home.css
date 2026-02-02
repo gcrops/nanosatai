@@ -63,6 +63,10 @@
   text-align: left;
   margin-left: 2vw;
   margin-right: 2vw;
+  color: #152845;
+  font-weight: 300;
+  letter-spacing: normal;
+  line-height: 1.6;
 }
 
 @media screen and (max-width: 950px) {

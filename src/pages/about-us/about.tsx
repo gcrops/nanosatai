@@ -3,11 +3,11 @@ import './about.css';
 export function About() {
   return (
     <div>
-      <h1 className="aboutus">ABOUT US</h1>
-      <div className="enjoy">
-        Enjoy the best <em>IT Services </em> specialized in{' '}
-        <em>helping clients</em> for digital transformation
+      <div className="AboutHero">
+        <div className="heroText">About Us</div>
+      
       </div>
+
       <div className="aboutcontent">
         <div className="content45">
           <p>
