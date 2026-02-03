@@ -4,7 +4,7 @@ export function Teams() {
     <div>
       <img src="/teams.avif" alt="environment" className="ServiceImage" />
       <div>
-        <div className="MainServiceHero">Extended Teams at GBS</div>
+        <div className="MainServiceHero">Extended Teams at Nanosat AI</div>
         <div className="MainServicePage">
           Nanosat relies on an extended team model to ensure that
           its AI, data engineering, cloud migration, and cloud security
