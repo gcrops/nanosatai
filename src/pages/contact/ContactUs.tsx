@@ -50,7 +50,7 @@ export function ContactUs() {
           <h1>USA Office</h1>
           <div>Nanosast Ai LLC</div>
           <div className="customblue">
-            Global Biome Services
+            Nanosat Ai LLC
             <div>500 College Road E,</div>
             <div>Suite 201, Princeton NJ 08540.</div>
             Email: info@globalbiomeservices.com
