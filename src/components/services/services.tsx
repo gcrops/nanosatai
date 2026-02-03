@@ -21,7 +21,7 @@ export function Services() {
         />
         <div className="cardHeading">Geo spatial</div>
         <div className="cardText">
-          GBS qa engineers are focused with a goal to help companies deliver
+          Nanosat qa engineers are focused with a goal to help companies deliver
           software with quality and confidence. We understand all software has
           flaws and vulnerabilities.{' '}
         </div>

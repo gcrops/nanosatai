@@ -8,7 +8,7 @@ export function Infra() {
         MAPPING
       </div>
       <div>
-        GBS delivers accurate, high-resolution infrastructure and road mapping
+        Nanosat delivers accurate, high-resolution infrastructure and road mapping
         services that support planning, design, construction, and asset
         management. Using advanced GIS, LiDAR, and aerial imagery, we create
         reliable spatial datasets that help organisations understand, manage,

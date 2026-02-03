@@ -8,7 +8,7 @@ export function Flood() {
         MODELLING
       </div>
       <div>
-        GBS provides science-driven flood risk and storm water modelling
+        Nanosat provides science-driven flood risk and storm water modelling
         services that help organisations understand water behaviour, manage
         risk, and plan resilient infrastructure. Using high-resolution terrain
         data, hydrological analysis, and GIS-based modelling, we deliver clear,

@@ -48,7 +48,7 @@ export function ContactUs() {
         </div>
         <div className="officeaddress">
           <h1>USA Office</h1>
-          <div>Global Biomeservices LLC</div>
+          <div>Nanosast Ai LLC</div>
           <div className="customblue">
             Global Biome Services
             <div>500 College Road E,</div>

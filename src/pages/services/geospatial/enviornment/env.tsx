@@ -8,7 +8,7 @@ export function Enviornment() {
         INFRASTRUCTURE ANALYSIS
       </div>
       <div>
-        GBS provides detailed environmental and green infrastructure analysis to
+        Nanosat provides detailed environmental and green infrastructure analysis to
         support sustainable land management, urban resilience, and
         climate-responsive planning. Using advanced GIS methods and high-quality
         spatial data, we help organisations understand, protect, and enhance

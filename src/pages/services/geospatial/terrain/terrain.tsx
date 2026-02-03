@@ -7,7 +7,7 @@ export function Terrain() {
         <br />& MAPPING
       </div>
       <div>
-        GBS delivers high-accuracy terrain analysis and mapping services using
+        Nanosat delivers high-accuracy terrain analysis and mapping services using
         LiDAR and elevation data to support planning, engineering, hydrology,
         and environmental assessment. Our terrain products provide a reliable
         foundation for understanding landform behaviour, water movement, and

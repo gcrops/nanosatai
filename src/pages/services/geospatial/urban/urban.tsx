@@ -7,7 +7,7 @@ export function Urban() {
         <br />& 3D GIS
       </div>
       <div>
-        GBS delivers high-quality urban planning and 3D spatial data solutions
+        Nanosat delivers high-quality urban planning and 3D spatial data solutions
         that support informed decision-making for cities, councils, and
         infrastructure agenciås. By combining advanced GIS, LiDAR, and 3D
         modelling techniques, we provide accurate spatial insights that help

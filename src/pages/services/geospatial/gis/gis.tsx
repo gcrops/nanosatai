@@ -4,7 +4,7 @@ export function Gis() {
     <div className="ServicePage">
       <div className="ServiceHero">GIS DATA COMPILATION & STANDARDISATION</div>
       <div>
-        GBS helps organisations transform fragmented, inconsistent spatial data
+        Nanosat helps organisations transform fragmented, inconsistent spatial data
         into reliable, structured GIS datasets. Through careful compilation,
         validation, and standardisation, we create trusted data foundations that
         support analysis, asset management, and long-term decision-making.

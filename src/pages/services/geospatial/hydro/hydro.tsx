@@ -8,7 +8,7 @@ export function Hydro() {
         IRRIGATION ANALYSIS
       </div>
       <div>
-        GBS delivers robust hydrological, catchment, and irrigation analysis to
+        Nanosat delivers robust hydrological, catchment, and irrigation analysis to
         support water resource planning, agricultural development, and long-term
         sustainability. By integrating spatial data, climate records, and
         hydrological models, we help clients understand water availability,

@@ -6,7 +6,7 @@ export function Security() {
       <div>
         <div className="MainServiceHero">Security & Compliance</div>
         <div className="MainServicePage">
-          Global BiomeServices implements a cloud-first security architecture to
+          Nanosat Ai implements a cloud-first security architecture to
           protect its geospatial platforms as they scale globally. The
           organization manages highly sensitive datasets, including
           high-resolution satellite imagery, environmental intelligence, and

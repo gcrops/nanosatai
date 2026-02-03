@@ -6,7 +6,7 @@ export function AI() {
       <div>
         <div className="MainServiceHero">AI & Machine Learning</div>
         <div className="MainServicePage">
-          Global BiomeServices is engaged by an international consortium of
+          Nanosat Ai is engaged by an international consortium of
           governments and environmental organizations to develop a
           next-generation geospatial intelligence platform focused on
           large-scale environmental monitoring and prediction. The consortium is
@@ -16,7 +16,7 @@ export function AI() {
           fall short when it comes to real-time analysis, forecasting, and
           decision support at a global scale. <br />
           <br />
-          To address this, Global BiomeServices builds an AI-first geospatial
+          To address this, Nanosat Ai builds an AI-first geospatial
           platform that deeply integrates machine learning at every layer of the
           system. Advanced deep learning models automatically ingest and
           harmonize multi-source satellite imagery—including optical, radar, and
@@ -34,7 +34,7 @@ export function AI() {
           satellite passes and field data, allowing the system to adapt as
           environmental conditions evolve. <br />
           <br />
-          Building on this foundation, Global BiomeServices introduces
+          Building on this foundation, Nanosat Ai introduces
           predictive intelligence using advanced AI techniques. Spatio-temporal
           forecasting models predict future risks such as wildfire spread, flood
           probability, drought severity, and biodiversity loss weeks or even
@@ -49,7 +49,7 @@ export function AI() {
           regions are at highest ecological risk in the next 90 days?”—and
           receive visual, map-based answers supported by confidence scores and
           model explanations. By combining geospatial expertise with large-scale
-          AI and machine learning, Global BiomeServices enables its clients to
+          AI and machine learning, Nanosat Ai enables its clients to
           move from reactive monitoring to proactive, data-driven environmental
           stewardship.
         </div>

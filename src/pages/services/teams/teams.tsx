@@ -6,7 +6,7 @@ export function Teams() {
       <div>
         <div className="MainServiceHero">Extended Teams at GBS</div>
         <div className="MainServicePage">
-          Global BiomeServices relies on an extended team model to ensure that
+          Nanosat relies on an extended team model to ensure that
           its AI, data engineering, cloud migration, and cloud security
           initiatives operate seamlessly at scale. Given the complexity of
           global geospatial platforms and the need for continuous innovation, a
@@ -19,7 +19,7 @@ export function Teams() {
           geospatial analytics. They work within the same architectural
           standards, tooling, and delivery processes as internal teams, ensuring
           consistency and accountability. By embedding domain experts directly
-          into ongoing projects, Global BiomeServices maintains deep technical
+          into ongoing projects, Nanosat maintains deep technical
           continuity while rapidly scaling capacity to meet evolving demands.{' '}
           <br />
           <br />
@@ -36,10 +36,10 @@ export function Teams() {
           components, optimize cloud costs, improve data quality, and harden
           security posture as new threats emerge. Because these teams are
           embedded for the long term, they develop deep institutional knowledge
-          of Global BiomeServices platforms, data, and business priorities.
+          of Nanosat platforms, data, and business priorities.
           <br />
           <br />
-          By leveraging an extended team model, Global BiomeServices ensures
+          By leveraging an extended team model, Nanosat Ai ensures
           that its complex, AI-driven geospatial ecosystem remains stable,
           secure, and future-ready. The approach combines the agility of global
           talent with the discipline of shared ownership, allowing the

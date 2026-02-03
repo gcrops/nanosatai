@@ -1,4 +1,4 @@
-This is the public page for global biomeservices.
+This is the public page for Nanosat AI.
 
 1. To Build --> yarn build
 2. To Preview --> yarn preview

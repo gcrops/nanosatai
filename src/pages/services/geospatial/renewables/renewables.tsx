@@ -4,7 +4,7 @@ export function Renewables() {
     <div className="ServicePage">
       <div className="ServiceHero">RENEWABLES & SOLAR ACCESS ASSESSMENT</div>
       <div>
-        GBS provides spatially driven renewable energy and solar access
+        Nanosat provides spatially driven renewable energy and solar access
         assessments to support sustainable energy planning and informed
         investment decisions. Using high-resolution terrain, building, and
         vegetation data, we help clients understand solar potential,

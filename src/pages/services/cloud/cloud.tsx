@@ -6,7 +6,7 @@ export function Cloud() {
       <div>
         <div className="MainServiceHero">Cloud & Infrastructure</div>
         <div className="MainServicePage">
-          Global BiomeServices undertakes a large-scale cloud migration
+          Nanosat Ai undertakes a large-scale cloud migration
           initiative to modernize its geospatial data and analytics
           infrastructure. The company's existing on-premises systems struggle to
           keep up with growing data volumes, irregular satellite ingestion
@@ -23,7 +23,7 @@ export function Cloud() {
           compute-intensive tasks such as image processing, spatial indexing,
           and large-area analysis. <br />
           <br />
-          As data moves to the cloud, Global BiomeServices establishes a secure,
+          As data moves to the cloud, Nanosat Ai establishes a secure,
           highly available geospatial data lake that serves as the foundation
           for all analytics and AI workloads. Object storage is used for massive
           raster and vector datasets, while managed databases support spatial
@@ -44,7 +44,7 @@ export function Cloud() {
           throughout the migration. Fine-grained access management, encryption,
           and audit logging ensure that sensitive geospatial data is protected
           while still being easily accessible to authorized users. By completing
-          this cloud migration, Global BiomeServices gains the flexibility,
+          this cloud migration, Nanosat Ai gains the flexibility,
           resilience, and scale needed to support advanced geospatial analytics
           and AI-driven solutions on a global level.
         </div>
