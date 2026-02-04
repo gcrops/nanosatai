@@ -3,14 +3,14 @@ export function DataEngg() {
   return (
     <div>
       <img
-        src="/dataengineering.avif"
+        src="/dataengg.webp"
         alt="data engineering"
         className="ServiceImage"
       />
       <div>
         <div className="MainServiceHero">Data Engineering & Analytics</div>
         <div className="MainServicePage">
-          Nanosat Ai is tasked with building a planet-scale data
+          Nanosat is tasked with building a planet-scale data
           engineering platform to support advanced geospatial analytics and
           AI-driven decision-making. The organization must handle petabytes of
           spatial and temporal data arriving continuously from satellite
@@ -19,7 +19,7 @@ export function DataEngg() {
           and unable to support low-latency analytics or large-scale machine
           learning workloads. <br />
           <br />
-          To solve this, Nanosat Ai designs a cloud-native,
+          To solve this, Nanosat designs a cloud-native,
           data-lake-centric architecture optimized for geospatial workloads. Raw
           data is ingested through high-throughput streaming pipelines that
           support real-time satellite downlinks and sensor feeds alongside large
@@ -45,7 +45,7 @@ export function DataEngg() {
           and time windows, dramatically reducing query latency for large-area
           or long-term analyses. <br />
           <br />
-          To support downstream analytics and AI, Nanosat Ai builds a
+          To support downstream analytics and AI, Nanosat builds a
           feature-ready data layer that exposes clean, curated datasets through
           APIs and data products. Data engineers collaborate closely with data
           scientists to ensure that spatial features, temporal aggregates, and

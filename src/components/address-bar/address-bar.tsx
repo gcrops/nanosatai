@@ -12,7 +12,7 @@ export function AddressBar() {
       <div className="address-left">
         <div>
           <a
-            href="https://maps.google.com/?q=500%20College%20Road%20E%2C%20Suite%20201%2C%20Princeton%20NJ%2008540%20USA"
+            href="https://www.google.com/maps/search/House+No+1-113-10%2F1,Plot+46%2F8,+MVP+colony,Visakhapatnam+-+530017/@17.7477437,83.3166683,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoASAFQAw%3D%3D"
             target="_blank"
           >
             <FontAwesomeIcon
@@ -20,18 +20,18 @@ export function AddressBar() {
               size="xl"
               className="address-icon"
             />
-            500 College Road E, Suite 201, Princeton NJ 08540 USA
+            House No 1-113-10/1,Plot 46/8, MVP colony,Visakhapatnam - 530017
           </a>
         </div>
 
         <div>
-          <a href="mailto:info@globalbiomeservices.com">
+          <a href="mailto:farm3eye@nanosat.ai">
             <FontAwesomeIcon
               icon={faEnvelope}
               size="xl"
               className="address-icon"
             />
-            info@globalbiomeservices.com
+            farm3eye@nanosat.ai
           </a>
         </div>
       </div>

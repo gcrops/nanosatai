@@ -1,5 +1,5 @@
 .MainHero {
-  background-image: url('/earth.jpg');
+  background-image: url('/mainhero.jpg');
   height: 40vh;
   background-position-x: center;
   background-position-y: center;
@@ -21,11 +21,12 @@
 }
 
 .heroSubText {
-  color: #152845;
+  color: white;
+  background-color: #152845;
   text-align: left;
   font-size: 3vh;
   font-weight: 700;
-  padding: 0;
+  padding: 0.5vw;
   font-style: italic;
 }
 

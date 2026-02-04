@@ -4,7 +4,7 @@ export function Home() {
   return (
     <div>
       <div className="MainHero">
-        <div className="heroText">Nanosat AI</div>
+        <div className="heroText">Nanosat</div>
         <div className="heroSubText">Bring Data to Life</div>
       </div>
       <div className="content">
@@ -14,7 +14,7 @@ export function Home() {
             <div className="horiTextHeader">
               <h2>Geospatial at Nanosat</h2>
             </div>
-            <strong>At Nanosat Ai</strong>,Our geospatial capabilities
+            <strong>At Nanosat</strong>,Our geospatial capabilities
             focus on transforming location intelligence into real-world impact.
             We enable advanced solutions across satellite imagery, remote
             sensing, GIS, and spatial analytics to support applications in smart
@@ -32,7 +32,7 @@ export function Home() {
             <div className="horiTextHeader">
               <h2>AI & ML</h2>
             </div>
-            <strong>At Nanosat AI</strong>, we harness the
+            <strong>At Nanosat</strong>, we harness the
             transformative power of artificial intelligence and machine learning
             to revolutionize geospatial analytics, enabling organizations to
             extract deeper insights from spatial data. Our AI-driven solutions
@@ -51,7 +51,7 @@ export function Home() {
             <div className="horiTextHeader">
               <h2>Data Engineering</h2>
             </div>
-            <strong>At Nanosat AI</strong>, we specialize in data
+            <strong>At Nanosat</strong>, we specialize in data
             engineering solutions tailored for geospatial applications, ensuring
             the seamless collection, processing, and integration of vast spatial
             datasets from diverse sources like satellites, drones, and IoT

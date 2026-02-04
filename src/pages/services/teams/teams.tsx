@@ -4,7 +4,7 @@ export function Teams() {
     <div>
       <img src="/teams.avif" alt="environment" className="ServiceImage" />
       <div>
-        <div className="MainServiceHero">Extended Teams at Nanosat AI</div>
+        <div className="MainServiceHero">Extended Teams at Nanosat</div>
         <div className="MainServicePage">
           Nanosat relies on an extended team model to ensure that
           its AI, data engineering, cloud migration, and cloud security
@@ -39,7 +39,7 @@ export function Teams() {
           of Nanosat platforms, data, and business priorities.
           <br />
           <br />
-          By leveraging an extended team model, Nanosat Ai ensures
+          By leveraging an extended team model, Nanosat ensures
           that its complex, AI-driven geospatial ecosystem remains stable,
           secure, and future-ready. The approach combines the agility of global
           talent with the discipline of shared ownership, allowing the

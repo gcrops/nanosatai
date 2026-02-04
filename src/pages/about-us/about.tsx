@@ -10,7 +10,7 @@ export function About() {
       <div className="aboutcontent">
         <div className="content45">
           <p>
-            Based in Princeton, <strong>Nanosat</strong> is a
+            Based in Visakhapatnam, <strong>Nanosat</strong> is a
             premier IT hub specializing in digital transformation and the
             development of next-generation intelligent systems.
           </p>

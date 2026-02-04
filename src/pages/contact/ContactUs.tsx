@@ -6,7 +6,7 @@ export function ContactUs() {
 
   const handleGmailOpen = () => {
     const subject = `Contact from ${name}`;
-    const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=info@globalbiomeservices.com&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}`;
+    const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=farm3eye@nanosat.ai&su=${encodeURIComponent(subject)}&body=${encodeURIComponent(message)}`;
     window.open(gmailUrl);
   };
 
@@ -46,15 +46,33 @@ export function ContactUs() {
             </form>
           </div>
         </div>
-        <div className="officeaddress">
-          <h1>USA Office</h1>
-          <div>Nanosast Ai LLC</div>
+        <div>
+          <div className="officeaddress">
+          <h1>Head Office</h1>
+          <div>NANOSAT.AI PRIVATE LIMITED</div>
           <div className="customblue">
-            Nanosat Ai LLC
-            <div>500 College Road E,</div>
-            <div>Suite 201, Princeton NJ 08540.</div>
-            Email: info@globalbiomeservices.com
+            <div>House No 1-113-10/1</div>
+            <div>Plot 46/8, MVP colony.</div>
+            <div>Visakhapatnam</div>
+            ANDHRA PRADESH 
+            <br />
+            530017
+            <br />
+            TEL. NO.:8978358657
+            <br />
+            Email: farm3eye@nanosat.ai
           </div>
+        </div><div className="officeaddress">
+          <h1>Corporate Office</h1>
+          <div>NANOSAT.AI PRIVATE LIMITED</div>
+          <div className="customblue">
+            HIG 72, AP House Boarding  colony
+            <br />
+            Guntur 522004
+            <br />
+            Email: farm3eye@nanosat.ai
+          </div>
+        </div>
         </div>
       </div>
     </div>
