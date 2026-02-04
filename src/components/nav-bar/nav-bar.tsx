@@ -8,7 +8,7 @@ export function Navbar() {
         <AddressBar />
       </div>
       <div className="NavFlex">
-        <img src="/logo.svg" alt="logo" className="cropxLogo" />
+        <img src="/0.jpg" alt="logo" className="cropxLogo" />
         <div className="ham">
           <i className="fa fa-bars" aria-hidden="true"></i>
         </div>
